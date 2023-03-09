@@ -105,6 +105,13 @@ durante el sprint:
 - ¿que se puede hacer en este sprint?
 
 
-# CLASE 1: 9 DE MARZO DEL 2022
+# CLASE 1 introduccion a la agilidad: 9 DE MARZO DEL 2022
+scrum es una filosofia o enfoque, no una metodologia.
+
+el product owner es aquel que tiene basto conocimiento el modelo de negocio este especifica necesidades y puede apoyarse en la construccion de requerimientos con uno o mas analista.
+
+motivacion, coordinacion, cooperacion -> habilidades blandas
+
+
 
 # CLASE 2: 
