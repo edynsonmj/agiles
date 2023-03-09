@@ -103,4 +103,8 @@ durante el sprint:
 #### el sprint planning.
 - ¿por que es valioso este sprint?: incrementar valor y utilidad, cual es el objetivo del sprint
 - ¿que se puede hacer en este sprint?
-- 
+
+
+# CLASE 1: 9 DE MARZO DEL 2022
+
+# CLASE 2: 
