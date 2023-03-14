@@ -104,7 +104,6 @@ durante el sprint:
 - ¿por que es valioso este sprint?: incrementar valor y utilidad, cual es el objetivo del sprint
 - ¿que se puede hacer en este sprint?
 
-
 # CLASE 1 introduccion a la agilidad: 9 DE MARZO DEL 2022
 scrum es una filosofia o enfoque, no una metodologia.
 
@@ -112,6 +111,15 @@ el product owner es aquel que tiene basto conocimiento el modelo de negocio este
 
 motivacion, coordinacion, cooperacion -> habilidades blandas
 
+# CLASE 2: 14 marzo
 
+El alma tripartita
+  - Razon: racional desiciones
+  - Espiritu
+  - Deseos: pasional
 
-# CLASE 2: 
+La felicidad es estar bien a nivel.
+  - Espiritual
+  - emocional
+  - fisico
+
