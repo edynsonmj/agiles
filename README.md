@@ -123,3 +123,39 @@ La felicidad es estar bien a nivel.
   - emocional
   - fisico
 
+Inteligible: que puede ser comprendido.
+comprension: cuando se despierta una emocion.
+si hay comprension hay empatia.
+
+En los equipos debe haber empatia.
+
+¿como generar empatia?
+- comunicacion.
+- escuchar.
+- observar.
+- comprender.
+- etc.
+
+Colaboracion:
+- cooperar.
+- coordinar.
+- comunicar.
+
+Lienamientos basicos de enfoques agiles
+- satisfaccion del cliente: Entrega rapida de software incremental, entregar valor significa solucionar una necesidad.
+  - debe tener calidad.
+- sencillez general: 
+- Equipos pequeños: altamente motivados.
+- motivacion: se ve reflejado en el exito del proyecto y la alta rotacion.
+- metodos menos pesados: 
+- ingenieria de software necesaria: se hacen los modelo necesarios.
+
+Entornos de dificil aplicacion.
+- tiempo del cliente.
+- fata de personalidad adecuada.
+- imposible mantener la simplisidad.
+- rechazo al cambio.
+- priorizar los cambios es dificil: el cliente no sabe lo que quiere.
+- se requiere realizar mantenimiento: se usa el enfoque Agile mantema.
+
+Valores agiles.
