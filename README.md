@@ -166,5 +166,21 @@ Valores agiles.
 # clase 4: 21 marzo
 
 Congruencia sociotecnica.
-	equipo de desarrollo con habilidades para comunicar y desarrrollar d euna mejor manera habilidades tecnicas.
-  
+	estado de equipo de desarrollo con habilidades para comunicar y desarrrollar d euna mejor manera habilidades tecnicas.
+
+liderazgo es la capacidad de influenciar en un grupo de personas hasta cambiar su forma de pensar.
+
+## principios agiles.
+
+1. la prioridad mas alta es satisfacer al cliente a traves de la entrega pronta y continua de software valioso.
+2. son bienvenidos los requerimientos cambiantes, aun en una etapa avanzada de desarrollo. Los procesos agiles dominan el cambio para provecho de la ventaja  competitiva.
+3. entregar con frecuencia software que funcione.
+4. 
+5. hay que desarrollar los proyectos con individuos motivados. debe darse a estos el ambiente y el apoyo que necesiten, y confiar en que haran el trabajo. la forma de ejecutar los proyectos debe garantizar en si misma la continuidad del proyecto.
+6. El metodo mas eficiente y eficaz para transmitir informacion a los integrantes de un equipo de desarrollo, y entre estos, es la conversacion cara a cara.
+7. la medida princiapl de avance es el softawar que fucniona.
+8. los procesos agiles promueven el desarrollo sostenible. Los patrocinadores, desarrrolladores y usuarios deben mantener un ritmo constante en forma indefinida.
+9. la atencion continua a la excelencia tecnica y al buen diseño mejora la agilidad. (trazalidad constante).
+10. la simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial. se refiere al product back log, como gestionar que todos los requisitos se lleven a cabo.
+11. la smejores arquitecturas, requisitos y diseños emergen de equipos auto-organizados.
+12. a intervalos regulares el equipo reflexiona sobre como ser mas efectivo para a continuacion ajustar y perfeccionar su comportamiento en consecuencia.
