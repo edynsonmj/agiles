@@ -159,3 +159,12 @@ Entornos de dificil aplicacion.
 - se requiere realizar mantenimiento: se usa el enfoque Agile mantema.
 
 Valores agiles.
+
+
+# Clase 3: Perdida.
+
+# clase 4: 21 marzo
+
+Congruencia sociotecnica.
+	equipo de desarrollo con habilidades para comunicar y desarrrollar d euna mejor manera habilidades tecnicas.
+  
