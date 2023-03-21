@@ -184,3 +184,24 @@ liderazgo es la capacidad de influenciar en un grupo de personas hasta cambiar s
 10. la simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial. se refiere al product back log, como gestionar que todos los requisitos se lleven a cabo.
 11. la smejores arquitecturas, requisitos y diseños emergen de equipos auto-organizados.
 12. a intervalos regulares el equipo reflexiona sobre como ser mas efectivo para a continuacion ajustar y perfeccionar su comportamiento en consecuencia.
+
+(retrospectiva, hacer seguimiento y trsabilidad)
+
+## principios lean.
+(piensa en grande, actual en pequeño, equivocate rapido, aprende con rapidez)
+1. eliminar desperdicios.
+2. amplificar el aprendizaje (tecnicos, humanos y habilidades blandas).
+3. decidir lo mas tarde posible.
+4. entregar tan rapido como sea posible.
+5. capacitar y formar el equpo.
+6. Construir integridad intrínseca.
+7. vease todo en conjunto (olistica)
+
+## principios kaizen (mejore continua)
+1. enfoque en le cliente.
+2. realizar mejoras continuamente.
+3. reconocer abiertamente los problemas.
+4. promover la apertura.
+5. crear equipos de trabajo.
+6. manejar proyectos a traves de equipos.
+7. 
