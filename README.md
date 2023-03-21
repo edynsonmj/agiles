@@ -201,7 +201,28 @@ liderazgo es la capacidad de influenciar en un grupo de personas hasta cambiar s
 1. enfoque en le cliente.
 2. realizar mejoras continuamente.
 3. reconocer abiertamente los problemas.
-4. promover la apertura.
+4. promover la apertura. (criticas, mejoras, cambios ideas ...)
 5. crear equipos de trabajo.
-6. manejar proyectos a traves de equipos.
-7. 
+6. mantener proyectos a trabes de equipos inter funcionales.
+7. alentar los procesos apropiados de relaciones.
+8. desarrollar la autodisciplina.
+9. informacion constante a los empleados.
+10. fomentar el desarrollo de los empleados.
+
+### actitudes kaizen.
+1. abandonar las ideas fijas, rechace la forma como las cosas son actualmente.
+2. en vez de explicar el por que no se puede hacer, piense en formas de como hacerlo.
+3. implemente inmediatamente las buenas iideas de mejora.
+4. busque la perfeccion obtenido 60% de mejora ahora.
+5. corrija errores localmente de forma inmediata.
+6. genere nuevas ideas partiendo de dificultades.
+7. busque la causa raiz de los problemas y luego encuentre la solucion.
+8. use las ideas de 10 personas en vez de esperar una idea brillante de una sola.
+9. pruebe y luego valide.
+10. mida el progreso.
+11. copie y mejore.
+12. la mejora nunca tiene fin.
+
+
+comunicacion, coordinacion, cooperacion -> las tres c.
+maind fullnes -> leer.
