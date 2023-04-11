@@ -227,9 +227,24 @@ liderazgo es la capacidad de influenciar en un grupo de personas hasta cambiar s
 comunicacion, coordinacion, cooperacion -> las tres c.
 maind fullnes -> leer.
 
-### clase N: 
+# clase N: 
 persuacion -> 
 disonancia cognitiva = actuar de forma distinta a sus creencias.
 influenciar de manera positiva al equipo.
 
 safe es scrum para enfoques agiles escalados.
+
+## Eventos de scrum.
+ruenion de planificacion:
+que y como se va hacer? que estrategia se seguira?
+reunion diaria:
+refinamiento del baglog: aclaremsos constantemente el alcance, (no se encuentra en la guia) volver a analizar el compromiso del spring y si es posible cumplirlo.
+revision del spring: priorizar nuevamente, limpiar el product backlog.
+reunion de retrospectiva: analizar que se hizo bien y que no.
+demostracion:
+
+ pregunta de examen: en la reunion de planificacion se establece el objetivo del spring y la coherencia a las tareas.
+ pregunta de examen: el PO prioriza pero el equipo decide que hacer, aunque si el lider o PO conoce adecuadamente su equipo puede asignar directamente.
+ 
+ 
+ 
