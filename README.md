@@ -226,3 +226,10 @@ liderazgo es la capacidad de influenciar en un grupo de personas hasta cambiar s
 
 comunicacion, coordinacion, cooperacion -> las tres c.
 maind fullnes -> leer.
+
+### clase N: 
+persuacion -> 
+disonancia cognitiva = actuar de forma distinta a sus creencias.
+influenciar de manera positiva al equipo.
+
+safe es scrum para enfoques agiles escalados.
