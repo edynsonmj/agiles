@@ -246,5 +246,45 @@ demostracion:
  pregunta de examen: en la reunion de planificacion se establece el objetivo del spring y la coherencia a las tareas.
  pregunta de examen: el PO prioriza pero el equipo decide que hacer, aunque si el lider o PO conoce adecuadamente su equipo puede asignar directamente.
  
+ # Clase N+1
+ de la vida como una pelicula
  
+ a un equipo le toma hallar su  velocidad del 5to al 7mo spring.
+ la reunion de planificacion es compleja y toma bastante tiempo.
+ se pregunta para aclarar y resolver dudas sobre lo que se va ha hacer, y formular estrategia a ejecutar.
  
+ ## reunion diaria:
+ espacio de maximo 15 minutos.
+ se identifican los problemas, pero no se resuelve o profundiza.
+ se identifican obstaculos para poderlos eliminar.
+ 
+ ¿que hiciste desde la ultima reunion?
+ 'teines algun obstaculo?
+ ¿que haras antes de la proxima reunion?
+ 
+ se de debe realizar todos los dias.
+ fomentar ayuda de unos a otros.
+ colaboracion para aumentar la productividad.
+ transferencia de informacion.
+ el scrum master tiene el deber de resolver los obstaculos.
+ 
+ Restricciones:
+ - no se resuelven problemas.
+ - no deben estar presentes todos los miembros del equipo.
+ - si una persona habla todos deben escuchar.
+ - evitar las reuniones tipo solucion de discrepancias.
+ 
+ TODO: curso de resolucion de conflictos.
+ 
+ En scrum no existe la reunion de refinamiento, pero es sugerida tener en cuenta.
+ 	se examinan todos los elementos del product backlog, se asegura que el product backlog esta actualizado.
+	se realiza cuando el spring tiene un grado de avance suficiente, pues es una prepraracion para el siguiente spring.
+	tiempo: no supera el 10% de duracion de un sprint.
+	
+	se eliminan si es necesario elementos que sean obsoletos para el proyecto.
+	se detectan posibles tareas nuevas.
+	es un instrumento de gran valor permite controlar el riesgo.
+
+Reunion revision de sprint.
+	al final de cada sprint.
+	el PO define si cumple con la definicion de hecho.
