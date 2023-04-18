@@ -288,3 +288,16 @@ demostracion:
 Reunion revision de sprint.
 	al final de cada sprint.
 	el PO define si cumple con la definicion de hecho.
+# clase 18 de abril.
+Consistencia: estable, coherente, que no desaparece facilmente.
+## reunon de retrspectiva.
+examen post mortem, sobre lo que esta bien mal, lo que se pude cambiar.
+## reunon de demostracion:
+1 hora por semana de sprint
+		enfoques agiles escalados: safe, less nexus, scrums of scrums, segun los creadores de metodologias agiles safe no es agil.
+Persuacion:
+	logos -> logica
+	athos -> autoridad desde el saber.
+	pathos -> motivacion
+se debe hacer la demostracion por que si la funcionalidad no resulve una necesidad se convierte en retrabajo o reproceso.
+las sugerencias de cambio pueden ser realizadas en el transcurso del sprint y presentar nuevamente al producto owner para su aprovacion si el tiempo lo permite.
