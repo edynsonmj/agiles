@@ -314,3 +314,10 @@ spike, periodo para resolver una duda tecnica, el producto de este spike no debe
 reunion de revision de sprint, checar si no esta en scrum, pero es probablemente sugerida por los creadores.
 
 cuadrante de fowler, deuda tecnica, social y de proceso.
+
+criterios de aceptacion para historias de usuario y criterios de aceptacion -> invest y smart.
+
+las deudas y riesgos no se eliminan, se gestionan.
+
+wip -> medida que se usa en canban que establece el maximo de historias de usuario por desarrollador.
+
