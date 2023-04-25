@@ -301,3 +301,14 @@ Persuacion:
 	pathos -> motivacion
 se debe hacer la demostracion por que si la funcionalidad no resulve una necesidad se convierte en retrabajo o reproceso.
 las sugerencias de cambio pueden ser realizadas en el transcurso del sprint y presentar nuevamente al producto owner para su aprovacion si el tiempo lo permite.
+
+# sesion 5.
+definicion de hecho y listo.
+definicion de listo: se esta listo para iniciar un trabajo? si hay dudas o algo no esta claro, la definicion de listo no se cumple.
+el tamaño de las historias de usuario lo define el equipo.
+el tamaño depende de la empresa y el equipo.
+historias de usuario deben ser de un tamaño apropiado, historias muy pequeñas aumenta el trabajo de gestion y su contrario aumenta la insertidumbre.
+antes de iniciar un sprint, se realiza una reunion de planificacion, se planifica lo que se va ha realizar, tambien se estima su costo, (no estimate es cuando el lider tecnico hace la estimacion).
+el lider es aquel que tiene la capacidad de modificar la forma de pensar de aquellos que lo siguen.
+spike, periodo para resolver una duda tecnica, el producto de este spike no debe ir al producto final sino a una wiki, el conocimiento debe conservarse.
+reunion de revision de sprint, checar si no esta en scrum, pero es probablemente sugerida por los creadores.
