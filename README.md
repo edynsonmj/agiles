@@ -312,3 +312,5 @@ antes de iniciar un sprint, se realiza una reunion de planificacion, se planific
 el lider es aquel que tiene la capacidad de modificar la forma de pensar de aquellos que lo siguen.
 spike, periodo para resolver una duda tecnica, el producto de este spike no debe ir al producto final sino a una wiki, el conocimiento debe conservarse.
 reunion de revision de sprint, checar si no esta en scrum, pero es probablemente sugerida por los creadores.
+
+cuadrante de fowler, deuda tecnica, social y de proceso.
