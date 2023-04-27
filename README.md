@@ -321,3 +321,25 @@ las deudas y riesgos no se eliminan, se gestionan.
 
 wip -> medida que se usa en canban que establece el maximo de historias de usuario por desarrollador.
 
+# clase 27/4/2023
+## definicion de listo.
+se aplica en la reunion de planificacion, para saber si estamos listos para iniciar un sprint.
+## definicion de hecho.
+se aplica
+	- la historia ha sido analizada y se ha hecho el diseño.
+	- el codigo escrito.
+	- el codigo documentado o comentado.
+	- el codigo se ha integrado.
+	- el codigo probado apropiadamente.
+	- la historia ha pasado las pruebas de forma manual o automatica.
+	- la documentacion y otros requisitos que requiere el proyecto hechos.
+
+modelo de las 3 C comunicar, cooperar y coordinar da como resultado colaboracion.
+
+SRE -> devops.
+
+moutaingoatsoftware.com
+
+grupo B) 
+sancocho trifasico
+	desarrollar una simulacion con lo visto en clase, un product backlog y spring backlog para entregar un plato.
