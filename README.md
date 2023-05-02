@@ -343,3 +343,14 @@ moutaingoatsoftware.com
 grupo B) 
 sancocho trifasico
 	desarrollar una simulacion con lo visto en clase, un product backlog y spring backlog para entregar un plato.
+
+# clase Historias de usuario 1.
+
+1) levantamiento de procesos. 
+
+2) prototipos.
+
+3) Especificar requisitos.
+
+(se validan con usuarios)
+
